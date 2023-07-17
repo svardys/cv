@@ -1,4 +1,4 @@
-# deski
+# Jaroslav Švardala CV
 
 ## Project setup
 ```
