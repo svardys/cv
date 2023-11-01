@@ -49,7 +49,7 @@
         <div class="modal-body">
           <div class="box_inner about">
             <div class="title-section text-left text-sm-center">
-              <h1>O <span>MĚ</span></h1>
+              <h1>ABOUT <span>ME</span></h1>
               <span class="title-bg">RESUMÉ</span>
             </div>
             <!-- {/* End title */} -->
@@ -72,8 +72,8 @@ export default {
         heroMobileImage: require(`@/assets/images/hero/img-mobile.jpg`),
         heroTitleName: "Jaroslav Švardala",
         heroDesignation: "web developer",
-        heroDescriptions: `Jsem zkušený Web Developer a Front-end vývojář, specializovaný na vývoj webových stránek a aplikací pomocí Vue.js (verze 3) a Tailwind CSS. V posledních dvou letech pracuji jako Frontend vývojář ve startupu, kde jsem zodpovědný za vývoj a udržování komplexní aplikace Vue3 od úplného začátku. Mám silnou touhu se neustále učit a rozvíjet své dovednosti jak jako programátor, tak jako člověk.`,
-        heroBtn: "více o mně",
+        heroDescriptions: `I am an experienced Web Developer and Front-end Developer, specialized in developing websites and applications using Vue.js (version 3) and Tailwind CSS. For the past two years, I have been working as a Frontend Developer at a startup where I am responsible for developing and maintaining a complex Vue3 application from the very beginning. I have a strong desire to constantly learn and develop my skills both as a programmer and as a person.`,
+        heroBtn: "more about me",
       },
     };
   },

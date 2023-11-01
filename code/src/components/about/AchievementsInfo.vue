@@ -23,10 +23,10 @@ export default {
   data() {
     return {
       achievementsContent: [
-        { id: 1, title: "8", subTitle1: "let", subTitle2: "v oboru IT" },
-        { id: 2, title: "5", subTitle1: "let", subTitle2: "s&nbsp;Javascript" },
-        { id: 3, title: "4", subTitle1: "let", subTitle2: "zkušeností s&nbsp;Vue.js" },
-        { id: 4, title: "3", subTitle1: "let", subTitle2: "s&nbsp;Tailwind CSS" },
+        { id: 1, title: "8", subTitle1: "years", subTitle2: "in IT" },
+        { id: 2, title: "5", subTitle1: "years", subTitle2: "with&nbsp;Javascript" },
+        { id: 3, title: "4", subTitle1: "years", subTitle2: "experience with&nbsp;Vue.js" },
+        { id: 4, title: "3", subTitle1: "years", subTitle2: "with&nbsp;Tailwind CSS" },
       ],
     };
   },

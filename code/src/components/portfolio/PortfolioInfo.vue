@@ -50,7 +50,7 @@
                         <div class="row open-sans-font">
                           <div class="col-12 col-sm-6 mb-2">
                             <i class="fa fa-file-text-o pr-2"></i>
-                            <span class="project-label">Projekt </span>:
+                            <span class="project-label">Project </span>:
                             <span class="ft-wt-600 uppercase">
                               {{ portfolio.project }}</span
                             >
@@ -59,7 +59,7 @@
 
                           <div class="col-12 col-sm-6 mb-2">
                             <i class="fa fa-user-o pr-2"></i>
-                            <span class="project-label">Klient </span>:
+                            <span class="project-label">Client </span>:
                             <span class="ft-wt-600 uppercase">{{
                               portfolio.client
                             }}</span>
@@ -68,7 +68,7 @@
 
                           <div class="col-12 col-sm-6 mb-2">
                             <i class="fa fa-code pr-2"></i>
-                            <span class="project-label">Jazyky </span>:
+                            <span class="project-label">Languages </span>:
                             <span class="ft-wt-600 uppercase">{{
                               portfolio.language
                             }}</span>
@@ -77,7 +77,7 @@
 
                           <div class="col-12 col-sm-6 mb-2">
                             <i class="fa fa-external-link pr-2"></i>
-                            <span class="project-label">Náhled </span>:
+                            <span class="project-label">Preview </span>:
                             <span class="ft-wt-600 uppercase">
                               <a
                                 :href="portfolio.previewLink"

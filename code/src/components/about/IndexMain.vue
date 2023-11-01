@@ -8,7 +8,7 @@
           <div class="row">
             <div class="col-12">
               <h3 class="text-uppercase custom-title mb-0 ft-wt-600">
-                Osobní informace
+                Personal information
               </h3>
             </div>
             <!-- {/* End .col */} -->
@@ -29,7 +29,7 @@
 
             <div class="col-12 mt-1">
               <a class="button" :href="cv" download>
-                <span class="button-text">Ke stažení CV</span>
+                <span class="button-text">Download CV</span>
                 <span class="button-icon fa fa-download"></span>
               </a>
             </div>
@@ -54,7 +54,7 @@
           <h3
             class="text-uppercase pb-4 pb-sm-5 mb-3 mb-sm-0 text-left text-sm-center custom-title ft-wt-600"
           >
-            Mé DOVEDNOSTI
+          My SKILLS
           </h3>
         </div>
         <SkillInfo />
@@ -69,7 +69,7 @@
           <h3
             class="text-uppercase pb-5 mb-0 text-left text-sm-center custom-title ft-wt-600"
           >
-          ZKUŠENOSTI <span>&</span> VZDĚLÁNÍ
+          EXPERIENCE <span>&</span> EDUCATION
           </h3>
         </div>
         <div class="col-lg-6 m-15px-tb">

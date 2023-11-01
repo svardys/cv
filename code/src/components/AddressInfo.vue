@@ -1,7 +1,7 @@
 <template>
   <p class="open-sans-font custom-span-contact position-relative">
     <i class="fa fa-map position-absolute"></i>
-    <span class="d-block">Adresa</span>Na Rybníčku 43 , Žulová 79065.
+    <span class="d-block">Address</span>Na Rybníčku 43 , Žulová 79065.
   </p>
   <!-- {/* End .custom-span-contact */} -->
 
@@ -14,7 +14,7 @@
 
   <p class="open-sans-font custom-span-contact position-relative">
     <i class="fa fa-phone-square position-absolute"></i>
-    <span class="d-block">Telefon</span>
+    <span class="d-block">Phone</span>
     <a>+420 721 892 661</a>
   </p>
   <!-- {/* End .custom-span-contact */} -->

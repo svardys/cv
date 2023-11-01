@@ -8,7 +8,7 @@ const routes = [
     name: "HomeDark",
     component: HomeDark,
     meta: {
-      title: "Resumé - Jaroslav Švardala",
+      title: "Summary - Jaroslav Švardala",
     },
   },
   {
@@ -16,7 +16,7 @@ const routes = [
     name: "HomeLight",
     component: () => import("../views/HomeLight.vue"),
     meta: {
-      title: "Resumé - Jaroslav Švardala",
+      title: "Summary - Jaroslav Švardala",
     },
   },
   {

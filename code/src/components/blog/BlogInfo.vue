@@ -52,8 +52,8 @@
               <!-- {/* Article Starts */} -->
               <article>
                 <div class="title-section text-left text-sm-center">
-                  <h1>detail <span>příspěvku</span></h1>
-                  <span class="title-bg">příspěvek</span>
+                  <h1>post <span>detail</span></h1>
+                  <span class="title-bg">post</span>
                 </div>
                 <!-- {/* Meta Starts */} -->
 

@@ -6,10 +6,10 @@
     >
       <div class="content">
         <h1>404!</h1>
-        <p>Stránka nebyla nalezena.</p>
+        <p>Page not found.</p>
 
         <div class="button">
-          <router-link to="/">zpět na začátek</router-link>
+          <router-link to="/">back to the beginning</router-link>
         </div>
         <!-- {/* End purchase_button */} -->
       </div>

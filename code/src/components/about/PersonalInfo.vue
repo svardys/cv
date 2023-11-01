@@ -21,16 +21,16 @@ export default {
   data() {
     return {
       personalInfoContent: [
-        { id: 1, meta: "Jméno", metaInfo: "Jaroslav" },
-        { id: 2, meta: "Přijmení", metaInfo: "Švardala" },
-        { id: 3, meta: "Věk", metaInfo: "25 let" },
-        { id: 4, meta: "Národnost", metaInfo: "Česká Republika" },
-        { id: 5, meta: "Freelance", metaInfo: "Dostupný" },
-        { id: 6, meta: "Adresa", metaInfo: "Na Rybníčku 43, Žulová" },
-        { id: 7, meta: "Telefon", metaInfo: "+420 721 892 661" },
+        { id: 1, meta: "Name", metaInfo: "Jaroslav" },
+        { id: 2, meta: "Surname", metaInfo: "Švardala" },
+        { id: 3, meta: "Age", metaInfo: "25 years" },
+        { id: 4, meta: "Nationality", metaInfo: "Czech Republic" },
+        { id: 5, meta: "Freelance", metaInfo: "Available at" },
+        { id: 6, meta: "Address", metaInfo: "Na Rybníčku 43, Žulová" },
+        { id: 7, meta: "Phone", metaInfo: "+420 721 892 661" },
         { id: 8, meta: "Email", metaInfo: "j.svardala@seznam.cz" },
         { id: 9, meta: "Linked In", metaInfo: "LINK", link: 'https://www.linkedin.com/in/jaroslav-%C5%A1vardala-717aa9192/'},
-        { id: 10, meta: "Jazyk", metaInfo: "Česky, English" },
+        { id: 10, meta: "Language", metaInfo: "Česky, English" },
       ],
     };
   },

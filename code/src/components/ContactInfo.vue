@@ -6,7 +6,7 @@
           <input
             type="text"
             name="name"
-            placeholder="VAŠE JMÉNO"
+            placeholder="YOUR NAME"
             v-model="name"
             required
           />
@@ -19,7 +19,7 @@
           <input
             type="email"
             name="email"
-            placeholder="VÁŠ EMAIL"
+            placeholder="YOUR EMAIL"
             required
             v-model="email"
           />
@@ -32,7 +32,7 @@
           <input
             type="text"
             name="subject"
-            placeholder="PŘEDMĚT"
+            placeholder="SUBJECT"
             required
             v-model="subject"
           />
@@ -44,7 +44,7 @@
         <div class="form-group">
           <textarea
             name="message"
-            placeholder="VAŠE ZPRÁVA"
+            placeholder="YOUR MESSAGE"
             required
             v-model="message"
           ></textarea>
@@ -54,7 +54,7 @@
 
       <div class="col-12">
         <button type="submit" class="button">
-          <span class="button-text">Odeslat zprávu</span>
+          <span class="button-text">Send message</span>
           <span class="button-icon fa fa-send"></span>
         </button>
       </div>
@@ -92,12 +92,12 @@ export default {
         )
         .then(
           (result) => {
-            console.log("Zpráva byla odeslána!", result.text);
-            alert("Zpráva byla odeslána!");
+            console.log("The message has been sent!", result.text);
+            alert("The message has been sent!");
           },
           (error) => {
-            console.log("Odeslání selhalo", error.text);
-            alert("Odeslání selhalo", error);
+            console.log("Sending failed", error.text);
+            alert("Sending failed", error);
           }
         );
       this.name = "";

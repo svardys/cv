@@ -16,7 +16,7 @@
         <li class="icon-box" role="presentation">
           <button class="active" data-bs-toggle="tab" data-bs-target="#home">
             <i class="fa fa-home"></i>
-            <h2>DOMŮ</h2>
+            <h2>HOME</h2>
           </button>
         </li>
         <!-- End icon-box -->
@@ -24,7 +24,7 @@
         <li class="icon-box" role="presentation">
           <button data-bs-toggle="tab" data-bs-target="#about">
             <i class="fa fa-user"></i>
-            <h2>OMĚ</h2>
+            <h2>ABOUT</h2>
           </button>
         </li>
         <!-- End icon-box -->
@@ -32,7 +32,7 @@
         <li class="icon-box" role="presentation">
           <button data-bs-toggle="tab" data-bs-target="#portfolio">
             <i class="fa fa-briefcase"></i>
-            <h2>PORTFÓLIO</h2>
+            <h2>PORTFOLIO</h2>
           </button>
         </li>
         <!-- End icon-box -->
@@ -40,7 +40,7 @@
         <li class="icon-box" role="presentation">
           <button data-bs-toggle="tab" data-bs-target="#contact">
             <i class="fa fa-envelope-open"></i>
-            <h2>KONTAKT</h2>
+            <h2>CONTACT</h2>
           </button>
         </li>
         <!-- End icon-box -->
@@ -69,8 +69,8 @@
       <div class="tab-pane fade about" id="about">
         <div>
           <div class="title-section text-left text-sm-center">
-            <h1>O <span>MĚ</span></h1>
-            <span class="title-bg">RESUMÉ</span>
+            <h1>ABOUT <span>ME</span></h1>
+            <span class="title-bg">RESUME</span>
           </div>
           <!-- {/* End title */} -->
           <IndexMain />
@@ -84,8 +84,8 @@
           data-aos="fade-up"
           data-aos-duration="1200"
         >
-          <h1>moje <span>PRÁCE</span></h1>
-          <span class="title-bg">Portfólio</span>
+          <h1>MY <span>WORK</span></h1>
+          <span class="title-bg">Portfolio</span>
         </div>
         <!-- {/* End title */} -->
         <PortfolioInfo />
@@ -94,18 +94,18 @@
 
       <div class="tab-pane fade contact" id="contact">
         <div class="title-section text-left text-sm-center">
-          <h1>navázat <span>spojení</span></h1>
-          <span class="title-bg">KONTAKT</span>
+          <h1>establish <span>CONNECTION</span></h1>
+          <span class="title-bg">CONTACT</span>
         </div>
         <div class="container">
           <div class="row">
             <!-- {/* Left Side Starts */} -->
             <div class="col-12 col-lg-4">
               <h3 class="text-uppercase custom-title mb-0 ft-wt-600 pb-3">
-                Nestyďte se !
+                Do not be shy !
               </h3>
               <p class="open-sans-font mb-4">
-                Neváhejte se se mnou spojit. Vždy jsem otevřený diskusi o nových projektech, kreativních nápadech nebo možnostech podílet se na vašich vizích.
+                Feel free to contact me. I am always open to discuss new projects, creative ideas or opportunities to participate in your visions.
               </p>
               <AddressInfo />
               <!-- {/* End Address */} -->
@@ -128,8 +128,8 @@
 
       <div class="tab-pane fade blog" id="blog">
         <div class="title-section text-left text-sm-center">
-          <h1>můj <span>blog</span></h1>
-          <span class="title-bg">příspěvky</span>
+          <h1>my <span>blog</span></h1>
+          <span class="title-bg">contributions</span>
         </div>
         <div class="container">
           <!-- {/* Articles Starts */} -->

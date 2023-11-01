@@ -5,8 +5,8 @@ export default {
         {
           id: 1,
           img: require(`@/assets/images/portfolio/tanganica.png`),
-          title: "Tanganica - WEB",
-          project: "Webová stránka",
+          title: "Tanganica - Website",
+          project: "Website",
           client: "TGNCA  s. r. o",
           language: "HTML, Tailwind CSS, Javascript, Vue.js",
           preview: "https://www.tanganica.com/",
@@ -15,8 +15,8 @@ export default {
         {
           id: 2,
           img: require(`@/assets/images/portfolio/truwork.png`),
-          title: "Truwork - WEB",
-          project: "Webová stránka",
+          title: "Truwork - Website",
+          project: "Website",
           client: "Truwork  s. r. o",
           language: "HTML, Tailwind CSS, Javascript, Vue.js",
           preview: "https://truwork.cz/",
@@ -25,8 +25,8 @@ export default {
         {
           id: 3,
           img: require(`@/assets/images/portfolio/app.tanganica.png`),
-          title: "App Tanganica - WEB",
-          project: "Webová aplikace",
+          title: "App Tanganica - Website",
+          project: "Web application",
           client: "TGNCA  s. r. o",
           language: "HTML, Tailwind CSS, Javascript, Vue.js",
           preview: "https://app.tanganica.com/",
