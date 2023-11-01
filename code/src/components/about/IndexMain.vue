@@ -28,7 +28,7 @@
             <!-- {/* End personal info */} -->
 
             <div class="col-12 mt-1">
-              <a class="button" :href="cv" download>
+              <a class="button" href="/JaroslavSvardala.pdf" download>
                 <span class="button-text">Download CV</span>
                 <span class="button-icon fa fa-download"></span>
               </a>
@@ -106,7 +106,6 @@ export default {
   data() {
     return {
       imgMobile: require(`@/assets/images/hero/img-mobile.jpg`),
-      cv: require(`@/assets/images/JaroslavSvardala.png`),
     };
   },
 };
